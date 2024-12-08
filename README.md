@@ -12,7 +12,7 @@ This repository demonstrates how to use **Amazon Chronos**, a state-of-the-art t
 Energy forecasting is critical for managing and optimizing resources in various industries such as utilities, manufacturing, and smart cities. This notebook showcases the use of **Amazon Chronos**, a time-series forecasting model built on advanced machine learning and transformer architectures, to tackle energy consumption prediction effectively.  
 
 The notebook includes:  
-- Data preprocessing and exploration.  
+- Data loading and exploration.  
 - An introduction to outlier detection and removal for clean time-series data.  
 - Hyperparameter tuning using grid search to optimize forecasting performance.  
 - Sliding-window cross-validation to evaluate model accuracy.  
@@ -54,6 +54,7 @@ Amazon Chronos has a wide range of applications across industries:
    - Water and energy distribution optimization.  
 
 ---
+![image](https://github.com/user-attachments/assets/e6f2a156-1326-4f3d-9806-5586ae780f95)
 
 ## 🧠 What's Inside This Notebook?  
 
@@ -84,15 +85,10 @@ Amazon Chronos has a wide range of applications across industries:
 To run the notebook, ensure you have the following installed:  
 - Python >= 3.7  
 - PyTorch  
-- Amazon Chronos (`pip install amazon-chronos`)  
+- Amazon Chronos 
 - Scikit-learn  
-- Pandas and Matplotlib  
+- Pandas , Numpy and other basic libraries 
 
 ---
 
 ## 🚀 Getting Started  
-
-1. Clone this repository:  
-   ```bash  
-   git clone https://github.com/yourusername/energy-consumption-amazon-chronos.git  
-   cd energy-consumption-amazon-chronos  
