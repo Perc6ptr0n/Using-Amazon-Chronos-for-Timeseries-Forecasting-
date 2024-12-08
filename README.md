@@ -1,7 +1,7 @@
 # Using-Amazon-Chronos-for-Timeseries-Forecasting-
 
 
-# 🌟 Predicting Energy Consumption with Amazon Chronos 🌟  
+# 🌟 Predicting Energy Consumption with Gen AI  🌟  
 
 This repository demonstrates how to use **Amazon Chronos**, a state-of-the-art time-series forecasting tool, to predict energy consumption patterns. The project focuses on fine-tuning hyperparameters and building an efficient pipeline for accurate and reliable predictions, even in complex time-series datasets.  
 
